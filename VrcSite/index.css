@@ -17,20 +17,20 @@
 background-color:forestgreen;
 }
 body{
-  background-color:black;
+  background-color:white;
 }
 h4{color: black;
 }
 header{color: white;}
-h2{color: white;}
+h2{color: black;}
 h3{color:white;}
-p{color: white;}
-h6{color: white;}
+p{color: black;}
+h6{color:black;}
 video{
   height:30%;
   width:50%;
 }
-h4{color:white;}
+h4{color:black;}
 
 
 .article{width: 100%;}
