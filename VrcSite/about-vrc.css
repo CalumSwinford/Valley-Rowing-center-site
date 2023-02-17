@@ -9,29 +9,54 @@
     clear: both;
     display: table;
 }
-.article{width:100%;}
+body{background-color:black;}
+.article{width:100%;
+  width:100%;
+  border: 15px solid green;
+  padding: 2%;
+  margin: 1%;
+background-color:black;
+color:white;}
+
+.aside{width:100%;
+  border: 15px solid green;
+  padding: 2%;
+  margin: 1%;
+background-color:white;
+color:black;}
 
 .header{width:100%;
-background-color:forestgreen;}
-.article{width:100%;}
+background-color:forestgreen;
+width:100%;
+  color:white;
+width:100%;
+ width:100%;
+  border: 15px darkorange;
+  padding: 2%;
+  margin: 1%;}
+  }
+.span2{
+ 
+  width:100%;
+}
+
 .container{width:100%;}
 
+
 body{
-  background-color:white;
+ 
   text-align:center;
 }
-h1{
-  color:white;
-}
-h3{color: black;}
-h2{color:white;}
-h4{color:black;}
-h5{color:black;}
-p{color:black;}
-image{aqlign:center;}
-footer{background-color:darkorange;}
 
-.header{background-color:frestgreen;}
+image{aqlign:center;}
+footer{background-color:darkorange;
+width:100%;
+  border: 15px solid green;
+  padding: 2%;
+  margin: 1%;
+color:white;}
+
+
 
 ul {
   list-style-type: none;
